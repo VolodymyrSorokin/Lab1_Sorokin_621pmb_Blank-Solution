@@ -8,3 +8,5 @@
 Події    зміна часового інтервалу
 ![image](https://github.com/VolodymyrSorokin/Lab1_Sorokin_621pmb_Blank-Solution/assets/149332791/9b79601c-b544-4cfc-af8b-331e0257e715)
 Рисунок – Робота форми
+Був додан TextBox та написан код обробки події зміни дати у календарі
+![image](https://github.com/VolodymyrSorokin/Lab1_Sorokin_621pmb_Blank-Solution/assets/149332791/907a5faa-ff36-4e29-beb8-f43c70f3d095)
