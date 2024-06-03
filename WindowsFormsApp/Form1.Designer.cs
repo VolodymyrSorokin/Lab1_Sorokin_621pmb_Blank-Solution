@@ -48,7 +48,7 @@ namespace WindowsFormsApp
             this.labelDaysNumber.TabIndex = 2;
             this.labelDaysNumber.Text = "Інтервал між двома датами у днях:";
             // 
-            // Form1
+            // Form1____
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
